@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sarawelter@ymail.com
+	name = Sara Welter
